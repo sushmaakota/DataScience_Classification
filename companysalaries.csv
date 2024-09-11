@@ -1,0 +1,48 @@
+company,job,degree,salary_morethan_100k
+google,sales executive,bachelors,0
+google,sales executive,masters,0
+google,business manager,bachelors,1
+google,business manager,masters,1
+google,computer programmer,bachelors,0
+google,computer programmer,masters,1
+abc pharma,sales executive,masters,0
+abc pharma,computer programmer,bachelors,0
+abc pharma,business manager,bachelors,0
+abc pharma,business manager,masters,1
+facebook,sales executive,bachelors,1
+facebook,sales executive,masters,1
+facebook,business manager,bachelors,1
+facebook,business manager,masters,1
+facebook,computer programmer,bachelors,1
+facebook,computer programmer,masters,1
+NTTData,business manager,bachelors,0
+NTTData,computer programmer,masters,0
+NTTData,business manager,masters,0
+NTTData,sales executive,masters,1
+NTTData,business manager,masters,0
+NTTData,computer programmer,bachelors,1
+syntel,computer programmer,masters,0
+syntel,sales executive,bachelors,1
+syntel,business manager,masters,0
+syntel,sales executive,bachelors,0
+syntel,sales executive,masters,0
+syntel,business manager,bachelors,0
+TCS,computer programmer,masters,0
+TCS,sales executive,bachelors,1
+TCS,computer programmer,masters,1
+TCS,business manager,bachelors,1
+TCS,sales executive,masters,1
+TCS,computer programmer,bachelors,0
+TCS,sales executive,masters,1
+wipro,sales executive,masters,1
+wipro,computer programmer,masters,1
+wipro,computer programmer,bachelors,0
+wipro,computer programmer,bachelors,0
+wipro,computer programmer,bachelors,0
+wipro,business manager,bachelors,1
+wipro,computer programmer,masters,1
+wipro,sales executive,masters,0
+CTS,business manager,masters,1
+CTS,sales executive,bachelors,0
+CTS,computer programmer,bachelors,1
+CTS,computer programmer,masters,0
